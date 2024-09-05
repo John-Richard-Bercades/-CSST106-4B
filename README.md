@@ -1,4 +1,10 @@
 # CSST106 - Machine Problem No. 1
+## Project Demonstration
+
+Click the link below to watch the video demonstration of the project:
+
+[Watch the video](https://github.com/09481845456/repository/raw/branch/458647277_8634473229918123_4255574281614857464_n.mp4)
+
 
 ## Introduction to Computer Vision
 
