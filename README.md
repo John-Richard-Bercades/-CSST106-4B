@@ -80,12 +80,14 @@ Image processing involves modifying and analyzing digital images using computer 
 
 
 # CSST106 - Machine Problem No. 2
-![image](https://github.com/user-attachments/assets/79deac87-9450-4c0b-aab5-28abc5bbc8e7)
-![image](https://github.com/user-attachments/assets/1f8afa36-df2a-47e2-9ebd-4c53cda3577b)
-![image](https://github.com/user-attachments/assets/022e5d7e-80aa-4b9a-9c59-227389a6504c)
-![image](https://github.com/user-attachments/assets/6bb661b9-4ccb-48e3-b4d0-d92538b4528c)
-![image](https://github.com/user-attachments/assets/74e06d88-bfe2-4ebf-ace2-9d1b7de5bbc9)
-![image](https://github.com/user-attachments/assets/94875471-0f4f-4f02-b7e2-4a748701bbf4)
+![image](https://github.com/user-attachments/assets/16fd93af-8b9c-4e7e-92d9-4645ccd0b56a)
+![image](https://github.com/user-attachments/assets/7e0a5b4d-6edd-4636-b598-881667395084)
+![image](https://github.com/user-attachments/assets/1b7a79da-1db3-4bd1-841f-87f715b1f695)
+![image](https://github.com/user-attachments/assets/55d3d508-2095-42ba-91b6-ec3c4c3f72ad)
+![image](https://github.com/user-attachments/assets/90183946-120c-433e-8114-04218d0d5253)
+![image](https://github.com/user-attachments/assets/7c86ebd8-4d05-4ad8-b041-2399505f4924)
+![image](https://github.com/user-attachments/assets/68388704-c982-453e-9fbd-c9485f1852c5)
+![image](https://github.com/user-attachments/assets/c5dcc8a8-d4f5-4a89-9db9-c51fbc52d0fa)
 
 
 
