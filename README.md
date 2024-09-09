@@ -4,6 +4,7 @@
 
 
 
+
 https://github.com/user-attachments/assets/2c0eefff-de2c-4830-8c67-4b6749346ac3
 
 
@@ -77,4 +78,7 @@ Image processing involves modifying and analyzing digital images using computer 
 
 [MP1-CSST106.ipynb](your-colab-link-here)
 
+
 # CSST106 - Machine Problem No. 2
+
+
