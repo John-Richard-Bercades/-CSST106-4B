@@ -74,10 +74,6 @@ Image processing involves modifying and analyzing digital images using computer 
 - [AI in Image Processing](https://www.geeksforgeeks.org/ai-in-image-processing/)
 - [Edge Detection using OpenCV](https://learnopencv.com/edge-detection-using-opencv/)
 
-### Link to Colab Notebook
-
-[MP1-CSST106.ipynb](your-colab-link-here)
-
 
 # CSST106 - Machine Problem No. 2
 ![image](https://github.com/user-attachments/assets/16fd93af-8b9c-4e7e-92d9-4645ccd0b56a)
