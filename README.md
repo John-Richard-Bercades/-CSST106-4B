@@ -80,5 +80,17 @@ Image processing involves modifying and analyzing digital images using computer 
 
 
 # CSST106 - Machine Problem No. 2
+![image](https://github.com/user-attachments/assets/79deac87-9450-4c0b-aab5-28abc5bbc8e7)
+![image](https://github.com/user-attachments/assets/1f8afa36-df2a-47e2-9ebd-4c53cda3577b)
+![image](https://github.com/user-attachments/assets/022e5d7e-80aa-4b9a-9c59-227389a6504c)
+![image](https://github.com/user-attachments/assets/6bb661b9-4ccb-48e3-b4d0-d92538b4528c)
+![image](https://github.com/user-attachments/assets/74e06d88-bfe2-4ebf-ace2-9d1b7de5bbc9)
+![image](https://github.com/user-attachments/assets/94875471-0f4f-4f02-b7e2-4a748701bbf4)
+
+
+
+
+
+
 
 
