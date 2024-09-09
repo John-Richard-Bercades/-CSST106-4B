@@ -76,3 +76,5 @@ Image processing involves modifying and analyzing digital images using computer 
 ### Link to Colab Notebook
 
 [MP1-CSST106.ipynb](your-colab-link-here)
+
+# CSST106 - Machine Problem No. 2
