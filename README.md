@@ -87,7 +87,11 @@ Image processing involves modifying and analyzing digital images using computer 
 
 
 # CSST106 - Exercise No. 1
-[Comparison of Image Processing Techniques.pdf](https://github.com/user-attachments/files/17017453/Comparison.of.Image.Processing.Techniques.pdf)
+![4B-BERCADES-E![4B-BERCADES-EXER1_page-0002](https://github.com/user-attachments/assets/9f7bee5a-5663-4e00-ae02-a20c8b47cb03)
+![4B-BERCADES-EXER1_page-0002](https://github.com/user-attachments/assets/8f38e6e7-0b0b-4dfc-b6fc-e4e8cea207f4)
+![4B-BERCADES-EXER1_page-0003](https://github.com/user-attachments/assets/9ae68cee-f8af-46d3-a656-9dba2b6bf475)
+![4B-BERCADES-EXER1_page-0004](https://github.com/user-attachments/assets/0ed58853-c3f7-4aa8-afd3-5eeaa557cd8b)
+![4B-BERCADES-EXER1_page-0005](https://github.com/user-attachments/assets/90fdbec4-2593-4f56-a6db-f73a07736354)
 
 
 
